@@ -1,2 +1,2 @@
 # LeetCode
-Redo for my leetcode solutions
+Repo for my leetcode solutions
